@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Oreolion
-- 👀 I’m interested in ...CYBER SECURITY,WEB APP PENTESTING, DATA ANALYTICS
-- 🌱 I’m currently learning ...CYBER SECURITY, WEB APP PENTESTING AND DATA ANALYTICS
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @Remyoreo
+- 👀 I’m interested in ...HTML, CSS, JAVASCRIPT, REACT, BUG BOUNTY, WEB APP PENTESTING
+- 🌱 I’m currently learning ...HTML, CSS, JAVASCRIPT, REACT, BUG BOUNTY, WEB APP PENTESTING
+- 💞️ I’m looking to collaborate on ...HTML, CSS, JAVASCRIPT, REACT, BUG BOUNTY, WEB APP PENTESTING
 - 📫 How to reach me ...REMYOREO11@GMAIL.COM
 
 <!---
